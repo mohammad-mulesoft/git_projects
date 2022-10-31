@@ -1,2 +1,27 @@
 Welcome to Git Hub Learnings
 Practise makes Perfect
+.....................
+Basic Steps while working with Git Hub:
+
+1. Go to Git Hub web site...github.com
+2. Signup..Follow wizards.
+3. If you want you can Create a Repository.
+4. Come to Your Local System: Create a Folder ie: Workspace
+5. ownload Gitbash software if not..
+6. Once Folder created-> Create any type of file etc..
+7. In Cmd-->SC: In same Folder which we created go to TOP...right click enter--it opens cmd 
+8. Configure Git Hub in first attempt.
+9. git config --global user.name "mohammad-mulesoft"
+   git config --global user.email mohammad.mulesoft@gmail.com
+   to check: git config user.name / git config user.email or git config --list
+   Now..git init (which Initializes and creates a local repository which contains hidden file .git
+   git add . or git add specific file 
+   git commit -m "INC-101"
+   git barnch -M main
+   git status
+   git remote add origin https://github.com/mohammad-mulesoft/git_projects.git
+   git push -u origin main
+...........................
+Now go to Your Repo..you can find..
+   
+
