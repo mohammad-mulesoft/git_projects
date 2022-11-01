@@ -21,6 +21,18 @@ Basic Steps while working with Git Hub:
    git status
    git remote add origin https://github.com/mohammad-mulesoft/git_projects.git
    git push -u origin main
+$ git push -u origin main
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 835 bytes | 417.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/mohammad-mulesoft/git_projects.git
+   72f46b7..c20a5df  main -> main
+branch 'main' set up to track 'origin/main'.
+...........................
+
 ...........................
 Now go to Your Repo..you can find..
    
